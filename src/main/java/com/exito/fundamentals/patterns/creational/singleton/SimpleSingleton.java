@@ -17,6 +17,6 @@ public class SimpleSingleton {
     }
        // Example method
     public void sayHello() {
-        System.out.println("Hello from Singleton");
+        System.out.println("Hello from Singleton 2");
     }
 }
